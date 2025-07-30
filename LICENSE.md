@@ -60,7 +60,7 @@ The following conditions apply:</p>
 
   <footer>
 
-   ©️ &copy; 2025 Zubin Qayam. 
+    &copy; 2025 Zubin Qayam. 
 All rights reserved. 
 
 Unauthorized use or duplication is strictly prohibited.<br>
