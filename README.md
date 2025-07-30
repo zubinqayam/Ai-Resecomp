@@ -133,3 +133,4 @@ Next Action → Merge with AutoserGPT 1.5 under `modules/thinking/`
 
 contact: zubin@autotechserv.com.</p>
 
+https://github.com/zubinqayam/Ai-Resecomp/blob/main/LICENSE.md
