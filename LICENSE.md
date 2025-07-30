@@ -1,13 +1,13 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+ <meta charset="UTF-8"/> <metaname="viewport"content="width=device-width, initial-scale=1.0"/>
   <title>Thinker V1 – License</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      lfont-family: Arial, sans-serif;
       margin: 40px;
       background-color: #fff;
       color: #333;
@@ -57,10 +57,7 @@
   <p>Only <strong>Thinker V2</strong> and beyond will be officially integrated into the <strong>AutoserGPT AI Workstation</strong> ecosystem.</p>
 
   <h2>🔒 Rights and Restrictions</h2>
-  <p>This software is protected under proprietary licensing and is the intellectual property of <strong>Zubin Qayam</strong>. 
-
---------
-The following conditions apply:</p>
+  <p>This software is protected under proprietary licensing and is the intellectual property of <strong>Zubin Qayam</strong>.The following conditions apply:</p>
   <ul>
     <li>You <strong>may not</strong> copy, distribute, modify, sublicense, or reuse this software or any of its components without written permission.</li>
     <li>This license applies to all source code, assets, documentation, and architecture associated with Thinker V1.</li>
