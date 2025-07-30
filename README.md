@@ -109,6 +109,7 @@ Modular Research Assistant (Standalone Legacy)
 - Status: Archived, planned for integration into AutoserGPT 1.5
 - License: Proprietary (Owned by Zubin Qayam)
 
+----
 
 Component → Thinker
 Type → Research Assistant
@@ -119,9 +120,16 @@ Owner → Zubin
 Next Action → Merge with AutoserGPT 1.5 under `modules/thinking/`
 
 <!-- LICENSE.html -->
+
 <h3>Thinker V1 – Proprietary License</h3>
-<p>This software and its components are © Zubin Qayam (zubin@autotechserv.com), 2025. All rights reserved.</p>
+<p>This software and its components are 
+
+© Zubin Qayam (zubin@autotechserv.com), 2025. All rights reserved.</p>
+
 <p>Thinker V1 is a research & development module created as part of the AutoserGPT AI Workstation project.</p>
+
 <p>No part of this software may be copied, redistributed, or used without explicit written permission from the owner.</p>
-<p>For licensing, integrations, or commercial use, contact: zubin@autotechserv.com.</p>
+<p>For licensing, integrations, or commercial use, 
+
+contact: zubin@autotechserv.com.</p>
 
