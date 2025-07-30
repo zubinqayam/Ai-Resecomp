@@ -126,9 +126,11 @@ Next Action → Merge with AutoserGPT 1.5 under `modules/thinking/`
 
 © Zubin Qayam (zubin@autotechserv.com), 2025. All rights reserved.</p>
 
-<p>Thinker V1 is a research & development module created as part of the AutoserGPT AI Workstation project.</p>
+<p>Thinker V1 is a research & development module.</p>
 
-<p>No part of this software may be copied, redistributed, or used without explicit written permission from the owner.</p>
+<p>No part of this software may be copied, redistributed, or used without explicit written permission from the owner,Mr.Zubin Qayam 
+
+.</p>
 <p>For licensing, integrations, or commercial use, 
 
 contact: zubin@autotechserv.com.</p>
