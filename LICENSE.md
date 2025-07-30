@@ -1,8 +1,4 @@
-from zipfile import ZipFile
-from pathlib import Path
-
-# Prepare the LICENSE.html content
-license_html_content = """
+<!-- LICENSE.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head><meta charset="UTF-8"><title>Thinker V1 License</title></head>
@@ -16,20 +12,3 @@ license_html_content = """
   <p>Approved use cases and integration requests must be routed through the original author.</p>
 </body>
 </html>
-"""
-
-# Define the output directory and file paths
-output_dir = Path("/mnt/data/thinker_license")
-output_dir.mkdir(parents=True, exist_ok=True)
-license_file = output_dir / "LICENSE.html"
-
-# Write the LICENSE.html file
-with open(license_file, "w") as f:
-    f.write(license_html_content)
-
-# Create a zip file containing the LICENSE.html
-zip_path = Path("/mnt/data/ThinkerV1_License.zip")
-with ZipFile(zip_path, "w") as zipf:
-    zipf.write(license_file, arcname="LICENSE.html")
-
-zip_path.name
