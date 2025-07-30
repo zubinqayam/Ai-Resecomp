@@ -134,3 +134,14 @@ Next Action → Merge with AutoserGPT 1.5 under `modules/thinking/`
 contact: zubin@autotechserv.com.</p>
 
 https://github.com/zubinqayam/Ai-Resecomp/blob/main/LICENSE.md
+
+-----
+
+<footer style="margin-top: 40px; font-size: 0.9em; color: #777;">
+  This document is part of 
+
+The Thinker V1 module – proprietary IP owned by Zubin Qayam (© 2025).<br/>
+
+  Repository: <a
+ href="https://github.com/zubinqayam/mythinker.com" target="_blank">mythinker.com</a>
+</footer>
