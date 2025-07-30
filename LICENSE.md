@@ -1,10 +1,19 @@
+
 <!DOCTYPE html>
+
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <meta charset="UTF-8"/>
+
+  <meta name="viewport"
+ content="width=device-width,
+ initial-scale=1.0"/>
+
   <title>Thinker V1 – License</title>
   <style>
+
     body {
       font-family: Arial, sans-serif;
       margin: 40px;
@@ -12,20 +21,25 @@
       color: #333;
       line-height: 1.6;
     }
+
     h1, h2 {
       color: #002244;
     }
+
     .notice {
+
       background-color: #fff4e6;
       border-left: 6px solid #ffa500;
       padding: 20px;
       margin: 20px 0;
     }
+
     footer {
       font-size: 0.9em;
       color: #777;
       margin-top: 40px;
     }
+
   </style>
 </head>
 <body>
