@@ -1,0 +1,9 @@
+# Mythinker.com - AI Research Companion
+# Basic dependencies for the research platform
+
+flask>=2.3.0
+requests>=2.31.0
+
+# Optional: Uncomment when implementing AI integrations
+# google-generativeai>=0.3.0
+# openai>=1.0.0

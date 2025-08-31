@@ -1,149 +1,88 @@
-Mythinker.com
+# Mythinker.com
 
+🚀 **Your AI-powered research companion for deep, structured, and collaborative topic exploration.**
 
-
-🚀 Your AI-powered research companion for deep, structured, and collaborative topic exploration.
-
-
----
-
-🌐 About
-
-Mythinker.com is a next-gen research platform that triggers dual-AI workflows the moment a comment or question is received. Two independent AI agents (e.g., Gemini & OpenRouter) conduct deep topic analysis, cross-review each other’s outputs, and then co-author an extraordinary final report.
-
-
+> ⚠️ **Development Status**: This repository contains a placeholder implementation. The full dual-AI research workflow is currently under development.
 
 ---
 
-🧠 How It Works
+## 🌐 About
 
-1. 💬 A user submits a topic (comment or question).
+Mythinker.com is a planned next-gen research platform that will trigger dual-AI workflows the moment a comment or question is received. Two independent AI agents (e.g., Gemini & OpenRouter) will conduct deep topic analysis, cross-review each other's outputs, and then co-author an extraordinary final report.
 
+## 🧠 Planned Workflow
 
-2. 🤖 AI 1 and AI 2 each perform in-depth research.
+1. 💬 A user submits a topic (comment or question)
+2. 🤖 AI 1 and AI 2 each perform in-depth research  
+3. 🔁 Their reports are shared and reviewed by each other
+4. 🧪 Enhanced insights are generated through comparison and refinement
+5. 🏁 A final mind-blowing report is synthesized by the platform + both AIs
 
+## 🛠 Planned Features
 
-3. 🔁 Their reports are shared and reviewed by each other.
+- ✅ Dual-AI research pipelines
+- 🔄 Automated cross-comparison and enhancement  
+- 📚 Final synthesis with platform-level logic
+- 📥 Simple UI for users to input topics
+- 🧩 Modular, extendable backend
 
+## 🧪 Demo / Preview
 
-4. 🧪 Enhanced insights are generated through comparison and refinement.
-
-
-5. 🏁 A final mind-blowing report is synthesized by the platform + both AIs.
-
-
-
-
----
-
-🛠 Features
-
-✅ Dual-AI research pipelines
-
-🔄 Automated cross-comparison and enhancement
-
-📚 Final synthesis with platform-level logic
-
-📥 Simple UI for users to input topics
-
-🧩 Modular, extendable backend
-
-
+> **Local Demo**: Available after setup (see below)  
+> **Live Demo**: https://mythinker.com (coming soon)
 
 ---
 
-🧪 Demo / Preview
+## ⚙️ Setup (Local)
 
-> Try it at: https://mythinker.com (coming soon)
-
-
-
-
----
-
-⚙️ Setup (Local)
-
+```bash
+# Install dependencies
 pip install -r requirements.txt
+
+# Start the backend server
 python backend/main.py
 
-Then open frontend/index.html in your browser.
+# Open frontend in browser
+# Option 1: Direct file access
+open frontend/index.html
 
+# Option 2: Via backend (recommended)
+# Navigate to http://localhost:5000 in your browser
+```
 
----
+## 📦 Tech Stack
 
-📦 Tech Stack
+- **Backend**: Python + Flask
+- **AI APIs**: Gemini & OpenRouter (planned integration)
+- **Frontend**: HTML / JavaScript  
+- **Deployment**: Google Cloud / Render / Vercel (optional)
 
-Python + Flask
+## 🧠 Built For
 
-Gemini & OpenRouter AI APIs
-
-HTML / JavaScript frontend
-
-(Optional) Google Cloud / Render / Vercel for deployment
-
-
-
----
-
-🧠 Built For
-
-Students
-
-Journalists
-
-Researchers
-
-Analysts
-
-Deep Thinkers
-
-
+- Students
+- Journalists
+- Researchers  
+- Analysts
+- Deep Thinkers
 
 ---
 
-> ✨ Empower your thoughts with Mythinker.com
+## 🔍 Related Projects
 
-### 🔍 Thinker V1
+### Thinker V1
 Modular Research Assistant (Standalone Legacy)
 - Repository: [Thinker V1](https://github.com/zubinqayam/Thinker-V1)
 - Status: Archived, planned for integration into AutoserGPT 1.5
 - License: Proprietary (Owned by Zubin Qayam)
 
-----
+---
 
-Component → Thinker
-Type → Research Assistant
-Version → V1 (Standalone)
-Source → GitHub Repo [link]
-License → Proprietary
-Owner → Zubin
-Next Action → Merge with AutoserGPT 1.5 under `modules/thinking/`
+## 📜 License
 
-<!-- LICENSE.html -->
+This project contains proprietary components. See [LICENSE.md](./LICENSE.md) for details.
 
-<h3>Thinker V1 – Proprietary License</h3>
-<p>This software and its components are 
+For licensing, integrations, or commercial use, contact: [zubin@autotechserv.com](mailto:zubin@autotechserv.com)
 
-© Zubin Qayam (zubin@autotechserv.com), 2025. All rights reserved.</p>
+---
 
-<p>Thinker V1 is a research & development module.</p>
-
-<p>No part of this software may be copied, redistributed, or used without explicit written permission from the owner,Mr.Zubin Qayam 
-
-.</p>
-<p>For licensing, integrations, or commercial use, 
-
-contact: zubin@autotechserv.com.</p>
-
-https://github.com/zubinqayam/Ai-Resecomp/blob/main/LICENSE.md
-
------
-
-<footer style="margin-top: 40px; font-size: 0.9em; color: #777;">
-  This document is part of 
-
-The Thinker V1 module – proprietary IP owned by Zubin Qayam (© 2025).<br/>
-
-  Repository: <a
- href="https://github.com/zubinqayam/mythinker.com" target="_blank">mythinker.com</a>
-</footer>
+> ✨ **Empower your thoughts with Mythinker.com**
